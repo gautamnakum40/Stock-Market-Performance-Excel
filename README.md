@@ -5,3 +5,8 @@ This project conducts an EDA of historical stock price data from multiple compan
 
 ## Objective
 To analyze historical stock price data to gain insights into stock performance, trends, and volatility.By using Excel’s built-in tools (such as slicers, timelines, and charts), the project aims to assist investors and decision-makers in making data-driven investment choices by identifying stock trends, understanding market behavior, and assessing risk.
+
+### Key Areas of Focus:
+#### 1. Stock Performance and Long-Term Trend:
+
+#### Stocks such as RELIANCE.NS have shown a consistent upward trend, indicating strong performance over time. Identifying stocks with similar patterns can help highlight potential investment opportunities and show consistent upward trends, making them potentially strong and favorable investment options for investors.
