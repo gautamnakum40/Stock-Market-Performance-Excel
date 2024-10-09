@@ -35,3 +35,12 @@ To analyze historical stock price data to gain insights into stock performance, 
 - Data-driven decision making in finance.
 - Use of Excel features and tools like pivot tables, conditional formatting, slicers, timeline, different types of charts. 
 - Key functions like a xlookup(), iferror(), multiple types of if functions like a countif(), averageif(), statistical functions stddev(), median(), percentile.inc() etc.. 
+
+## Project Structure
+### 1. **Time Series Analysis**:
+   
+- **Question**: What insights and trend of stock prices for RELIANCE.NS, TCS.NS, HDFCBANK.NS,INFY.NS, and HINDUNILVR.NS over the given period?
+![Visualization:]
+
+
+
