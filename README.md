@@ -34,13 +34,22 @@ To analyze historical stock price data to gain insights into stock performance, 
 - Statistical analysis of stock performance.
 - Data-driven decision making in finance.
 - Use of Excel features and tools like pivot tables, conditional formatting, slicers, timeline, different types of charts. 
-- Key functions like a xlookup(), iferror(), multiple types of if functions like a countif(), averageif(), statistical functions stddev(), median(), percentile.inc() etc.. 
+- Key functions like xlookup(), iferror(), multiple types of if functions like a countif(), averageif(), statistical functions stddev(), median(), percentile.inc() etc.. 
 
 ## Project Structure
 ### 1. **Time Series Analysis**:
    
-- **Question**: What insights and trend of stock prices for RELIANCE.NS, TCS.NS, HDFCBANK.NS,INFY.NS, and HINDUNILVR.NS over the given period?
-![Visualization:]
+#### Question:  _What insights and trend of stock prices for RELIANCE.NS, TCS.NS, HDFCBANK.NS,INFY.NS, and HINDUNILVR.NS over the given period?_
+
+#### Visualization:
+![stock_performance_image](https://github.com/gautamnakum40/Stock-Market-Performance-Analysis-using-Excel/blob/main/stock_analysis_img/stocks%20performance.png)
+
+#### Insights:
+* Growth Potential: The upward trend across all stocks suggests positive growth potential in the Indian stock market for these companies.
+* Investment Considerations: Investors might consider TCS.NS and RELIANCE.NS for potentially higher returns, albeit with higher risk due to volatility.
+* Market Stability: HINDUNILVR.NS and HDFCBANK.NS may offer more stable investment options with less price fluctuation.
+
+
 
 
 
