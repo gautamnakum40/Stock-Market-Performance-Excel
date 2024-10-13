@@ -33,7 +33,7 @@ To analyze historical stock price data to gain insights into stock performance, 
 - Data visualization using Excel dashboards.
 - Statistical analysis of stock performance.
 - Data-driven decision making in finance.
-- Use of Excel features and tools like pivot tables, conditional formatting, slicers, timeline, different types of charts. 
+- Use of Excel features and tools like pivot tables, pivot charts, conditional formatting, slicers, timeline, different types of charts. 
 - Key functions like xlookup(), iferror(), multiple if functions like a countif(), averageif(), statistical functions stddev(), median(), percentile.inc() etc.. 
 
 ## Project Structure
