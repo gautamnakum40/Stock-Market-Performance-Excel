@@ -18,7 +18,7 @@ To analyze historical stock price data to gain insights into stock performance, 
 -  It includes stock prices, trading volumes, and related metrics.
 -  Data from 2019-2024 was collected for long-term analysis of  market trends for last 5 years.
 
-## Tools and Technologies Used
+## Tools and Technologies I Used
 - Using python(Jupyter Notebook) fetch historical data from yfinance (Yahoo Finance API)
 - Microsoft Excel for data analysis and visualization
 - Pivot Tables and Charts for data summarization and reporting
