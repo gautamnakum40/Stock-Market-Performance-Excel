@@ -14,7 +14,7 @@ To analyze historical stock price data to gain insights into stock performance, 
 - Dashboard to visualize stock performance and key insights
 
 ## Data Sources
-- Yahoo Finance (yfinance): Used to fetch historical data for select group of stocks.
+- Yahoo Finance (yfinance): Used to fetch historical data for select group of stocks, Python code [File](https://github.com/gautamnakum40/Stock_Market_Performance_Analysis_Using_Advanced_Excel/blob/main/import-stocks-data.ipynb)
 -  It includes stock prices, trading volumes, and related metrics.
 -  Data from 2019-2024 was collected for long-term analysis of  market trends for last 5 years.
 
@@ -102,6 +102,10 @@ prices.
    - HDFCBANK.NS and TCS.NS: A moderately strong positive correlation (0.83)            exists between these stocks.
 * Weak Correlations:
    - HINDUNILVR.NS and other stocks: HINDUNILVR.NS shows relatively weak               correlations with the other stocks, indicating a less synchronized movement.
+
+## Final Stock Performance Dashboard
+#### Visualization:
+![Dashboard image](https://github.com/gautamnakum40/Stock_Market_Performance_Analysis_Using_Advanced_Excel/blob/main/stock_analysis_img/Dashboard.png)
 
 ## Summary and Recommendations
 Based on the analysis, the following recommendations are made:
