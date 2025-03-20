@@ -19,22 +19,18 @@ To analyze historical stock price data to gain insights into stock performance, 
 -  Data from 2019-2024 was collected for long-term analysis of  market trends for last 5 years.
 
 ## Tools and Technologies I Used
-- Using python(Jupyter Notebook) fetch historical data from yfinance (Yahoo Finance API)
-- Microsoft Excel for data analysis and visualization
-- Pivot Tables and Charts for data summarization and reporting
-- Descriptive statistics, moving averages, and correlation matrices for analysis
-- Conditional formatting and slicers for dynamic reporting
-- Time series and volatility analysis techniques
--  Git and GitHub for version control.
+ - Tools: Microsoft Excel, Jupyter Notebook, Yahoo Finance API (yfinance)
+ - Data Analysis & Visualization: Pivot Tables, Pivot Charts, Conditional Formatting, Slicers
+ - Statistical Techniques: Descriptive Statistics, Moving Averages, Correlation Matrices
+ - Time Series Analysis: Volatility Analysis, Trend Identification, Market Fluctuation Assessment
+ - Version Control: Git, GitHub
 
 ## Skills Demonstrated
-- Exploratory Data Analysis (EDA) of financial datasets.
-- Time series and volatility analysis.
-- Data visualization using Excel dashboards.
-- Statistical analysis of stock performance.
-- Data-driven decision making in finance.
-- Use of Excel features and tools like pivot tables, pivot charts, conditional formatting, slicers, timeline, different types of charts. 
-- Key functions like xlookup(), iferror(), index-match(), multiple if functions like a countif(), averageif(), statistical functions stddev(), median(), percentile.inc() etc.. 
+ - Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis of Stock Performance
+ - Time Series & Risk Assessment: Volatility Analysis, Trend Identification, Market Behavior Insights
+ - Visualization & Reporting: Excel Dashboards, Pivot Tables, Pivot Charts, Conditional Formatting, Slicers, Timelines
+ - Decision Making: Data-Driven Investment Strategies, Risk Assessment, Correlation Analysis
+ - Excel Functions & Techniques: XLOOKUP, IFERROR, INDEX-MATCH, COUNTIF, AVERAGEIF, STDEV, MEDIAN, PERCENTILE.INC
 
 ## Project Structure
 ### 1. **Time Series Analysis**
