@@ -19,18 +19,18 @@ To analyze historical stock price data to gain insights into stock performance, 
 -  Data from 2019-2024 was collected for long-term analysis of  market trends for last 5 years.
 
 ## Tools and Technologies I Used
- - Tools: Microsoft Excel, Jupyter Notebook, Yahoo Finance API (yfinance)
- - Data Analysis & Visualization: Pivot Tables, Pivot Charts, Conditional Formatting, Slicers
- - Statistical Techniques: Descriptive Statistics, Moving Averages, Correlation Matrices
- - Time Series Analysis: Volatility Analysis, Trend Identification, Market Fluctuation Assessment
- - Version Control: Git, GitHub
+ - **Tools:** Microsoft Excel, Jupyter Notebook, Yahoo Finance API (yfinance)
+ - **Data Analysis & Visualization:** Pivot Tables, Pivot Charts, Conditional Formatting, Slicers
+ - **Statistical Techniques:** Descriptive Statistics, Moving Averages, Correlation Matrices
+ - **Time Series Analysis:** Volatility Analysis, Trend Identification, Market Fluctuation Assessment
+ - **Version Control:** Git, GitHub
 
 ## Skills Demonstrated
- - Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis of Stock Performance
- - Time Series & Risk Assessment: Volatility Analysis, Trend Identification, Market Behavior Insights
- - Visualization & Reporting: Excel Dashboards, Pivot Tables, Pivot Charts, Conditional Formatting, Slicers, Timelines
- - Decision Making: Data-Driven Investment Strategies, Risk Assessment, Correlation Analysis
- - Excel Functions & Techniques: XLOOKUP, IFERROR, INDEX-MATCH, COUNTIF, AVERAGEIF, STDEV, MEDIAN, PERCENTILE.INC
+ - **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis of Stock Performance
+ - **Time Series & Risk Assessment:** Volatility Analysis, Trend Identification, Market Behavior Insights
+ - **Visualization & Reporting:** Excel Dashboards, Pivot Tables, Pivot Charts, Conditional Formatting, Slicers, Timelines
+ - **Decision Making:** Data-Driven Investment Strategies, Risk Assessment, Correlation Analysis
+ - **Excel Functions & Techniques:** XLOOKUP, IFERROR, INDEX-MATCH, COUNTIF, AVERAGEIF, STDEV, MEDIAN, PERCENTILE.INC
 
 ## Project Structure
 ### 1. **Time Series Analysis**
